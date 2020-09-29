@@ -1,6 +1,6 @@
 # Android Custom Button
 
-## Steps to Create a Custom Buton
+## Steps to Create a Custom Button
 * Create a `drawable` file
 * Add `<shape>` tag inside of it
 ```
